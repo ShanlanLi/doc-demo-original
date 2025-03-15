@@ -1,0 +1,8 @@
+{
+  "label": "Install Upstream Systems",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "In most cases, RisingWave ingests streaming data from upstream systems like event streaming platforms (Kafka, Pulsar, etc) and operational databases (PostgreSQL, MySQL, etc). Here we discuss how to install Kafka and PostgreSQL instantly."
+  }
+}
